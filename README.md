@@ -16,12 +16,11 @@ Hi there! 👋
 
 
 
-### LeetCode:
+### LeetCode and ### Socials:
 Want to see my coding journey? Check out my **LeetCode profile**:  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/Lubiey/)  
+![![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/Lubiey/)  
 
-### Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lubna-shaikh-582a9a255/)  
+![![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lubna-shaikh-582a9a255/)  
 
 
 
