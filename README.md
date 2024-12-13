@@ -31,13 +31,16 @@ Want to see my coding journey? Check out my **LeetCode profile**:
 
 
 ## Tech Stack:
-![Java](https://img.shields.io/badge/Java-%23E34A86.svg?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Hibernate](https://img.shields.io/badge/Hibernate-%232E8B57.svg?style=for-the-badge&logo=hibernate&logoColor=white) 
-![React.js](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23E34A86.svg?style=flat&logo=java&logoColor=white&color=blue&labelColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black&color=blue&labelColor=black)
+![Python](https://img.shields.io/badge/Python-%233776D4.svg?style=flat&logo=python&logoColor=white&color=blue&labelColor=black)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white&color=blue&labelColor=black)
+![Hibernate](https://img.shields.io/badge/Hibernate-%232E8B57.svg?style=flat&logo=hibernate&logoColor=white&color=blue&labelColor=black)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com)
+
 
 
 
