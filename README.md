@@ -5,13 +5,15 @@
 
 Here are some ideas to get you started:
 
+-->
+
 ## About Me:
 Hi there! 👋  
 - 🌱 I’m a tech enthusiast passionate about learning and building impactful projects.  
 - 💻 Currently working at @LearningMate.  
 - 🔍 Exploring **React.js**, **Spring Boot**, and **database optimizations**.  
 - 🌟 Problem-solving on **LeetCode** and learning new technologies every day!  
--->
+
 
 ## Learning Now:
 - 🌱 Exploring **microservices architecture** with Spring Boot.  
@@ -29,15 +31,14 @@ Want to see my coding journey? Check out my **LeetCode profile**:
 
 
 ## Tech Stack:
+![Java](https://img.shields.io/badge/Java-%23E34A86.svg?style=for-the-badge&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![Hibernate](https://img.shields.io/badge/Hibernate-%232E8B57.svg?style=for-the-badge&logo=hibernate&logoColor=white) 
+![React.js](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)  
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white&style=for-the-badge)  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)  
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lubie-max&layout=compact&theme=radical)  
@@ -45,6 +46,9 @@ Want to see my coding journey? Check out my **LeetCode profile**:
 
 ## My GitHub Stats:
 ![Lubna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lubie-max&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=lubie-max&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=lubie-max)
 
