@@ -15,6 +15,17 @@ Hi there! 👋
 - 🌟 Problem-solving on **LeetCode** and learning new technologies every day!  
 
 
+
+### LeetCode:
+Want to see my coding journey? Check out my **LeetCode profile**:  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/Lubiey/)  
+
+### Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lubna-shaikh-582a9a255/)  
+
+
+
+
 ## Learning Now:
 - 🌱 Exploring **microservices architecture** with Spring Boot.  
 - 🛠️ Deep-diving into **React.js advanced concepts** like hooks and context.  
@@ -31,18 +42,6 @@ Hi there! 👋
 ![React.js](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-## LeetCode:
-Want to see my coding journey? Check out my **LeetCode profile**:  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/Lubiey/)  
-
-
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lubna-shaikh-582a9a255/)  
-
-
-
 
 
 
