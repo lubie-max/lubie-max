@@ -9,6 +9,10 @@ Here are some ideas to get you started:
 ![![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lubna-shaikh-582a9a255/)  
 
 
+## LeetCode Stats
+![LeetCode Streak](https://img.shields.io/badge/LeetCode%20Streak-100%20Days-yellow?style=for-the-badge&logo=leetcode&logoColor=yellow)
+![LeetCode Rating](https://img.shields.io/badge/LeetCode%20Rating-2000%2B-green?style=for-the-badge&logo=leetcode&logoColor=green)
+
 ## Visitors:
 ![Visitors Badge](https://img.shields.io/badge/Visitors-000000.svg?style=for-the-badge)
 
@@ -29,10 +33,6 @@ Want to see my coding journey? Check out my **LeetCode profile**:
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23F9DC5C.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Lubiey/)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lubna-shaikh-582a9a255/)  
 
-
-## LeetCode Stats
-![LeetCode Streak](https://img.shields.io/badge/LeetCode%20Streak-100%20Days-yellow?style=for-the-badge&logo=leetcode&logoColor=yellow)
-![LeetCode Rating](https://img.shields.io/badge/LeetCode%20Rating-2000%2B-green?style=for-the-badge&logo=leetcode&logoColor=green)
 
 
 
