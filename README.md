@@ -10,6 +10,11 @@ Here are some ideas to get you started:
 ![![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lubna-shaikh-582a9a255/)  
 
 
+## Visitors:
+![Visitors Badge](https://img.shields.io/badge/Visitors-000000.svg?style=for-the-badge)
+
+
+
 -->
 
 ## About Me:
@@ -23,7 +28,8 @@ Hi there! 👋
 
 ### LeetCode and Socials:
 Want to see my coding journey? Check out my **LeetCode profile**:  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23F9DC5C.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Lubiey/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lubna-shaikh-582a9a255/)  
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23F9DC5C.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Lubiey/)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lubna-shaikh-582a9a255/)  
 
 
 
@@ -53,10 +59,6 @@ Want to see my coding journey? Check out my **LeetCode profile**:
 ![Lubna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lubie-max&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lubie-max&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
-
-## Visitors:
-![Visitors Badge](https://img.shields.io/badge/Visitors-000000.svg?style=for-the-badge)
-
 
 
 
