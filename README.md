@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **lubie-max/lubie-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +15,8 @@ Here are some ideas to get you started:
 
 
 -->
+## Hi there 👋
 
-## About Me:
-Hi there! 👋  
 - 🌱 I’m a tech enthusiast passionate about learning and building impactful projects.  
 - 💻 Currently working at @LearningMate.  
 - 🔍 Exploring **React.js**, **Spring Boot**, and **database optimizations**.  
