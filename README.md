@@ -21,10 +21,9 @@ Hi there! 👋
 
 
 
-### LeetCode and ### Socials:
+### LeetCode and Socials:
 Want to see my coding journey? Check out my **LeetCode profile**:  
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23F9DC5C.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Lubiey/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lubna-shaikh-582a9a255/)  
-
 
 
 
