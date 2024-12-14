@@ -54,8 +54,9 @@ Want to see my coding journey? Check out my **LeetCode profile**:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lubie-max&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
+## Visitors:
+![Visitors Badge](https://img.shields.io/badge/Visitors-000000.svg?style=for-the-badge)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=lubie-max)
 
 
 
