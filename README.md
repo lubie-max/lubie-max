@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 - 🌱 I’m a tech enthusiast passionate about learning and building impactful projects.  
 - 💻 Currently working at @LearningMate.  
 - 🔍 Exploring **React.js**, **Spring Boot**, and **database optimizations**.  
-- 🌟 Problem-solving on **LeetCode** and learning new technologies every day!  
+- 🌟 Problem-solving on **LeetCode** and learning new technologies every day!
+- 🎓 Student at @ScalerSchoolOfTechnology. 
 
 
 
